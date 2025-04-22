@@ -7,7 +7,7 @@ Taskmanager is a Python application for managing tasks with a MySQL database. It
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/taskmanager.git
+   git clone https://github.com/<NBCExplorer>/taskmanager.git
    cd taskmanager
    ```
 
